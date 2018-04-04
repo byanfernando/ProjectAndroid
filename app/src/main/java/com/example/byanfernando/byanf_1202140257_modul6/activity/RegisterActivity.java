@@ -17,8 +17,8 @@ import com.google.firebase.auth.AuthResult;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import id.odt.srirahayu_1202150373_modul6.R;
-import id.odt.srirahayu_1202150373_modul6.config.Constant;
+import com.example.byanfernando.byanf_1202140257_modul6.R;
+import com.example.byanfernando.byanf_1202140257_modul6.config.Constant;
 
 public class RegisterActivity extends AppCompatActivity {
 

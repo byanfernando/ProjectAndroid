@@ -16,9 +16,9 @@ import com.ogaclejapan.smarttablayout.utils.v4.FragmentStatePagerItemAdapter;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import id.odt.srirahayu_1202150373_modul6.R;
-import id.odt.srirahayu_1202150373_modul6.config.Constant;
-import id.odt.srirahayu_1202150373_modul6.fragment.PhotoFragment;
+import com.example.byanfernando.byanf_1202140257_modul6.R;
+import com.example.byanfernando.byanf_1202140257_modul6.config.Constant;
+import com.example.byanfernando.byanf_1202140257_modul6.fragment.PhotoFragment;
 
 public class MainActivity extends AppCompatActivity {
 

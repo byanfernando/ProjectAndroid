@@ -19,10 +19,10 @@ import java.util.ArrayList;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import id.odt.srirahayu_1202150373_modul6.R;
-import id.odt.srirahayu_1202150373_modul6.adapter.PhotoAdapter;
-import id.odt.srirahayu_1202150373_modul6.config.Constant;
-import id.odt.srirahayu_1202150373_modul6.model.PhotoModel;
+import com.example.byanfernando.byanf_1202140257_modul6.R;
+import com.example.byanfernando.byanf_1202140257_modul6.adapter.PhotoAdapter;
+import com.example.byanfernando.byanf_1202140257_modul6.config.Constant;
+import com.example.byanfernando.byanf_1202140257_modul6.model.PhotoModel;
 
 public class PhotoFragment extends Fragment {
     //deklarasi variable dan views

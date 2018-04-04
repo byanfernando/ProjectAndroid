@@ -18,11 +18,11 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-import id.odt.srirahayu_1202150373_modul6.R;
-import id.odt.srirahayu_1202150373_modul6.activity.PhotoDetailActivity;
-import id.odt.srirahayu_1202150373_modul6.config.Constant;
-import id.odt.srirahayu_1202150373_modul6.model.CommentModel;
-import id.odt.srirahayu_1202150373_modul6.model.PhotoModel;
+import com.example.byanfernando.byanf_1202140257_modul6.R;
+import com.example.byanfernando.byanf_1202140257_modul6.activity.PhotoDetailActivity;
+import com.example.byanfernando.byanf_1202140257_modul6.config.Constant;
+import com.example.byanfernando.byanf_1202140257_modul6.model.CommentModel;
+import com.example.byanfernando.byanf_1202140257_modul6.model.PhotoModel;
 
 //class adapter untuk row pada photo list
 public class PhotoAdapter extends RecyclerView.Adapter<PhotoAdapter.MyViewHolder> {

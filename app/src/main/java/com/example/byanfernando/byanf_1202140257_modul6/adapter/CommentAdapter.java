@@ -9,8 +9,8 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import id.odt.srirahayu_1202150373_modul6.R;
-import id.odt.srirahayu_1202150373_modul6.model.CommentModel;
+import com.example.byanfernando.byanf_1202140257_modul6.R;
+import com.example.byanfernando.byanf_1202140257_modul6.model.CommentModel;
 
 //class adapter untuk row pada comment list
 public class CommentAdapter extends RecyclerView.Adapter<CommentAdapter.MyViewHolder> {

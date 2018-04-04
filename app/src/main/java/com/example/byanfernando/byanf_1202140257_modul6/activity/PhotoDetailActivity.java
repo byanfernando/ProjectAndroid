@@ -23,11 +23,11 @@ import java.util.ArrayList;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import id.odt.srirahayu_1202150373_modul6.R;
-import id.odt.srirahayu_1202150373_modul6.adapter.CommentAdapter;
-import id.odt.srirahayu_1202150373_modul6.config.Constant;
-import id.odt.srirahayu_1202150373_modul6.model.CommentModel;
-import id.odt.srirahayu_1202150373_modul6.model.PhotoModel;
+import com.example.byanfernando.byanf_1202140257_modul6.R;
+import com.example.byanfernando.byanf_1202140257_modul6.adapter.CommentAdapter;
+import com.example.byanfernando.byanf_1202140257_modul6.config.Constant;
+import com.example.byanfernando.byanf_1202140257_modul6.model.CommentModel;
+import com.example.byanfernando.byanf_1202140257_modul6.model.PhotoModel;
 
 public class PhotoDetailActivity extends AppCompatActivity {
     //Deklarasi View
